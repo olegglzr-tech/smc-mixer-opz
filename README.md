@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/avatar.png" width="160" alt="SMC-Mixer mixer robot">
+</p>
+
 # SMC-Mixer → OP-Z: громкость треков фейдерами
 
 Готовый профиль `CC / User` для M-VAVE SMC-Mixer, который превращает фейдеры
