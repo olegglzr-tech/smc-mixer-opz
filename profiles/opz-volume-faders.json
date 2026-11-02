@@ -1,0 +1,41 @@
+{
+  "profile": "CC / User",
+  "knobs": [
+    { "index": 1, "name": "Knob 1", "type": 0, "speed": 2, "channel": 1, "cc": 30, "minimum": 0, "maximum": 127 },
+    { "index": 2, "name": "Knob 2", "type": 0, "speed": 2, "channel": 1, "cc": 31, "minimum": 0, "maximum": 127 },
+    { "index": 3, "name": "Knob 3", "type": 0, "speed": 2, "channel": 1, "cc": 32, "minimum": 0, "maximum": 127 },
+    { "index": 4, "name": "Knob 4", "type": 0, "speed": 2, "channel": 1, "cc": 33, "minimum": 0, "maximum": 127 },
+    { "index": 5, "name": "Knob 5", "type": 0, "speed": 2, "channel": 1, "cc": 34, "minimum": 0, "maximum": 127 },
+    { "index": 6, "name": "Knob 6", "type": 0, "speed": 2, "channel": 1, "cc": 35, "minimum": 0, "maximum": 127 },
+    { "index": 7, "name": "Knob 7", "type": 0, "speed": 2, "channel": 1, "cc": 36, "minimum": 0, "maximum": 127 },
+    { "index": 8, "name": "Knob 8", "type": 0, "speed": 2, "channel": 1, "cc": 37, "minimum": 0, "maximum": 127 }
+  ],
+  "faders": [
+    { "index": 1, "name": "Fader 1", "type": 0, "channel": 1, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 2, "name": "Fader 2", "type": 0, "channel": 2, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 3, "name": "Fader 3", "type": 0, "channel": 3, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 4, "name": "Fader 4", "type": 0, "channel": 4, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 5, "name": "Fader 5", "type": 0, "channel": 5, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 6, "name": "Fader 6", "type": 0, "channel": 6, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 7, "name": "Fader 7", "type": 0, "channel": 7, "cc": 16, "minimum": 0, "maximum": 127 },
+    { "index": 8, "name": "Fader 8", "type": 0, "channel": 8, "cc": 16, "minimum": 0, "maximum": 127 }
+  ],
+  "trackButtons": [
+    { "track": 1, "name": "Mute", "mode": 1, "channel": 1, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 1, "name": "Solo", "mode": 1, "channel": 1, "cc": 20, "value1": 0, "value2": 127 },
+    { "track": 2, "name": "Mute", "mode": 1, "channel": 2, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 2, "name": "Solo", "mode": 1, "channel": 1, "cc": 21, "value1": 0, "value2": 127 },
+    { "track": 3, "name": "Mute", "mode": 1, "channel": 3, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 3, "name": "Solo", "mode": 1, "channel": 1, "cc": 22, "value1": 0, "value2": 127 },
+    { "track": 4, "name": "Mute", "mode": 1, "channel": 4, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 4, "name": "Solo", "mode": 1, "channel": 1, "cc": 23, "value1": 0, "value2": 127 },
+    { "track": 5, "name": "Mute", "mode": 1, "channel": 5, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 5, "name": "Solo", "mode": 1, "channel": 1, "cc": 24, "value1": 0, "value2": 127 },
+    { "track": 6, "name": "Mute", "mode": 1, "channel": 6, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 6, "name": "Solo", "mode": 1, "channel": 1, "cc": 25, "value1": 0, "value2": 127 },
+    { "track": 7, "name": "Mute", "mode": 1, "channel": 7, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 7, "name": "Solo", "mode": 1, "channel": 1, "cc": 26, "value1": 0, "value2": 127 },
+    { "track": 8, "name": "Mute", "mode": 1, "channel": 8, "cc": 53, "value1": 0, "value2": 127 },
+    { "track": 8, "name": "Solo", "mode": 1, "channel": 1, "cc": 27, "value1": 0, "value2": 127 }
+  ]
+}
